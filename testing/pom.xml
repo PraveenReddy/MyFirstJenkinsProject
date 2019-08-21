@@ -7,6 +7,10 @@
   <version>1.0</version>
   <name>testing</name>
   <url>http://maven.apache.org</url>
+  <configuration>
+                <source>1.8</source>
+                <target>1.8</target>
+            </configuration>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
